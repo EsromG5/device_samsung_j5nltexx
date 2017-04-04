@@ -1,9 +1,9 @@
 [
   {
     "remote":     "github"
-    "repository": "EsromG5/device_samsung_j5-common",
+    "repository": "j5-Dev-Stable/device_samsung_j5-common",
     "target_path": "device/samsung/j5-common"
-    "branch":     "nougat"
+    "branch":     "aokp"
   },
   {
     "remote": "github",
